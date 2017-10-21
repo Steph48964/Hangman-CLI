@@ -1,0 +1,19 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "# Advanced JavaScript Assignment: Constructor Hangman",
+  "main": "gameController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steph48964/Hangman-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steph48964/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/Steph48964/Hangman-CLI#readme"
+}
