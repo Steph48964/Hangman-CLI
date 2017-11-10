@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Steph48964/Hangman-CLI/issues"
   },
-  "homepage": "https://github.com/Steph48964/Hangman-CLI#readme"
+  "homepage": "https://github.com/Steph48964/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
 }
